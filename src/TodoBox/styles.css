@@ -1,0 +1,13 @@
+.box {
+  margin: auto;
+  width: 650px;
+  margin-top: 150px;
+  background-color: #ffffff;
+  border: 2px solid #ffffff;
+  border-radius: 12px;
+  padding: 5px;
+}
+
+.right-button {
+  float: right;
+}
