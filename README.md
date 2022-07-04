@@ -12,7 +12,7 @@ npm run test
 ```
 
 
-## Lanzar a producción
+## Generar versión de producción
 
 ```
 npm run build
